@@ -1,3 +1,9 @@
+![](https://img.shields.io/github/workflow/status/jakecastelli/trongate-vscode/Node.js%20CI/master?style=flat)
+![](https://img.shields.io/visual-studio-marketplace/i/jc-sf.Trongate)
+![](https://img.shields.io/visual-studio-marketplace/v/jc-sf.Trongate)
+![](https://img.shields.io/visual-studio-marketplace/stars/jc-sf.Trongate)
+![][1]
+
 # Trongate Scaffold & Code Snippets
 
 Would you like to code faster?  I know I certainly would! 👀️
@@ -20,7 +26,7 @@ This extension will allow you to:
 
 * Create a module directory scaffold
   * with a starter class, complete with asset.json ready for you to create whatever is on your mind - enjoy!
-  * now with v1.0.2+ you can create a view, complete with linked CSS and JavaScript files
+  * now with v1.0.1+ you can create a view, complete with linked CSS and JavaScript files
 
 ![vsc-102-view](https://user-images.githubusercontent.com/7813262/97399997-6c461400-1942-11eb-91c0-41658b5664ec.gif)
 
@@ -99,10 +105,11 @@ No known issues to report 👍
 * Added persistence when frontend framework is chosen
 * Added status bar message to remind you which frontend framework is active
 
-### 1.0.2
+### 1.0.1
 * dropdown options menu when creating a new module
   * you can choose 'no' (default) to create a class only
   * or choose 'yes' to create a view, with linked CSS and JavaScript files
 * added new snippet > tge that will display a dropdown menu of common environment variables
   * BASE_URL, WEBSITE_NAME, OUR_NAME, OUR_TELNUM, OUR_ADDRESS & OUR_EMAIL_ADDRESS
 
+[1]:https://img.shields.io/badge/Trongate%20Framework-eco--system-blue?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAAQABADAREAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAJRAAAQMDBAICAwAAAAAAAAAAAgEDBQQGBwgREiEAMRMUQWFx/8QAGQEAAQUAAAAAAAAAAAAAAAAABQABAgQH/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIRAAMEBQYhMUFRcRL/2gAMAwEAAhEDEQA/ALrRjgTG1yY0lr7zXRRxR9xSDMXCDWGjJIYHtzaNVReRuFwRE98F81vdW5M+3lpY09iCgJaOe/fwc0Ps21iWoHWZpUt/DsXT35YROhEPPpT1FK6XL4yL1sv92/XvpNu7O193ZOoOcfKMt2DTXbKrytFaS8ewN6HE3ZlHKlLRQFoSPzQ0JUSwNr9kTFwlVpxdgbJVFdx7VUXwZree9kNaxbcs4hmjx12PNJR7rcdd1xxl9YfbatHINtVFPGVo1sjRhItG/UgicQFoRVVJUIt1TrpN/wAeBdtI2JlzdQyRAMcD7UnP6Ff/2Q==
